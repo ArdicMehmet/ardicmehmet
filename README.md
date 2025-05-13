@@ -7,7 +7,6 @@
 - 🧠 I'm a fast learner who enjoys diving deep, especially when there's complexity to tackle and room to grow
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -45,7 +44,6 @@
 </div>
 
 ## Connect with me  
-<table><tr><td valign="top" width="33%">
 <div align="center">
 <a href="https://github.com/ArdicMehmet" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
