@@ -1,5 +1,10 @@
 <h2 align="left">Hi 👋, I'm Mehmet<br><br>A passionate Full Stack developer from Turkey</h2>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mehmetardic26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mehmetardic26" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/ardicmehmet96/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ardicmehmet96/" height="30" width="40" /></a>
+</p>
 ###
 
 <div align="left">
@@ -38,12 +43,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
 </div>
 
-###
+## Connect with me  
+<div align="center">
+<a href="https://github.com/ArdicMehmet" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/mehmetardic26" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/mehmetardic26/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+<br/>  
 
-###
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ArdicMehmet&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
