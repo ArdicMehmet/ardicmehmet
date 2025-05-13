@@ -1,11 +1,13 @@
 <h2 align="left">Hi 👋, I'm Mehmet<br><br>A passionate Full Stack developer from Turkey</h2>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mehmetardic26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mehmetardic26" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/ardicmehmet96/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ardicmehmet96/" height="30" width="40" /></a>
-</p>
+- 🌱 I’m currently learning Java Spring 
+- 🔍 I believe real-world problem solving matters more than just theoretical knowledge  
+- ⚙️ I enjoy designing clean project structures and writing scalable, readable code  
+- 💡 I often build logic-first, then explore best practices to improve and optimize  
+- 🧠 I'm a fast learner who enjoys diving deep, especially when there's complexity to tackle and room to grow
 
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -43,6 +45,7 @@
 </div>
 
 ## Connect with me  
+<table><tr><td valign="top" width="33%">
 <div align="center">
 <a href="https://github.com/ArdicMehmet" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
