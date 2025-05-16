@@ -5,6 +5,8 @@
 - ⚙️ I enjoy designing clean project structures and writing scalable, readable code  
 - 💡 I often build logic-first, then explore best practices to improve and optimize  
 - 🧠 I'm a fast learner who enjoys diving deep, especially when there's complexity to tackle and room to grow
+- How to reach me : ardicmehmet96@gmail.com
+
 
 ## My Skill Set  
 <div align="left">
