@@ -1,59 +1,33 @@
-<h2 align="left">Hi 👋, I'm Mehmet<br><br>A passionate Full Stack developer from Turkey</h2>
+# Mehmet Ardıç
 
-- 🌱 I’m currently learning Java Spring 
-- 🔍 I believe real-world problem solving matters more than just theoretical knowledge  
-- ⚙️ I enjoy designing clean project structures and writing scalable, readable code  
-- 💡 I often build logic-first, then explore best practices to improve and optimize  
-- 🧠 I'm a fast learner who enjoys diving deep, especially when there's complexity to tackle and room to grow
-- How to reach me : ardicmehmet96@gmail.com
+**Computer Engineer | Embedded Systems, IoT & Computer Vision | Robotics Instructor & Curriculum Developer**
 
+I build at the intersection of software and the physical world, with a focus on IoT, embedded systems and computer vision.
 
-## My Skill Set  
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-</div>
+For over two years I have taught robotics coding, Python, MicroPython and STEM to students from primary to high school, and I design project-based curricula around Raspberry Pi Pico, sensors, Blynk IoT, 3D modeling and 3D printing.
 
-## Connect with me  
-<div align="left">
-<a href="https://github.com/ArdicMehmet" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/mehmetardic26" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-<br/>  
+Earlier I worked as a full stack developer (Angular, Node.js, MongoDB, MySQL) and took on team lead and scrum master roles.
 
+## Tools
 
+C, Python, MicroPython, OpenCV, JavaScript, React, Node.js, Git
+
+## Selected projects
+
+**[Tower Defense](https://ardicmehmet.github.io/kule-savunma/)** 3D browser game built with Three.js and AI assistance (Cursor). Code: [kule-savunma](https://github.com/ArdicMehmet/kule-savunma)
+
+**[Store Page](https://ardicmehmet.github.io/Store-Page-with-React/)** E-commerce front end with React, Redux Toolkit, React Router and Tailwind. Code: [Store-Page-with-React](https://github.com/ArdicMehmet/Store-Page-with-React)
+
+**[Contacts App](https://goit-react-hw-08-mauve-eta.vercel.app/)** Phonebook app with login, registration and contact management. Code: [goit-react-hw-08](https://github.com/ArdicMehmet/goit-react-hw-08)
+
+**[Chat Application](https://github.com/ArdicMehmet/Chat-Application-with-NodeJS)** Real-time chat with Node.js, Express and Socket.io.
+
+**[CPU Scheduling Algorithms](https://github.com/ArdicMehmet/Operation-System-Algorithm-with-Python-Code)** FCFS, SJF, SRJF and Round Robin implemented in Python.
+
+## In progress
+
+IoT and embedded projects with Raspberry Pi Pico, C, MicroPython and OpenCV. I will publish them here.
+
+## Connect
+
+[LinkedIn](https://linkedin.com/in/mehmetardic26)
